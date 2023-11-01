@@ -1,0 +1,21 @@
+John:100:acum o luna
+Ron:50:acum 2 zile
+petru:1056:acum
+petru:772:tot acum
+eu:509:merge ?
+eu:509:merge2 ?
+petru:485:acum, dar da
+petru:485:acum, dar iar
+siuu:484:siuu
+Marcel:373:acum 5 minute
+petru:1053:seara
+petru:729:tarziu
+:31:
+siuuu:15:siuu
+:486:
+:501:
+:7170:
+eu:478:e bine ?
+:457:
+eu:457:eu
+misu:63:azi
